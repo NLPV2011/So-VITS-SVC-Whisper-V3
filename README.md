@@ -1,4 +1,4 @@
-# SFAVIOM - "Rewriting" The Definition Of High Quality Audio
+# SFAVIOM - "Rewriting" The So-VITS-SVC =))))))))))))
 
 ## Updates
 > Regarding the issue of **leaking of voice timbre**, there are still no statistics on this\
