@@ -9,12 +9,6 @@ import utils
 from modules.mel_processing import spectrogram_torch
 from utils import load_wav_to_torch, load_filepaths_and_text
 
-# import h5py
-
-
-"""Multi speaker version"""
-
-
 class TextAudioSpeakerLoader(torch.utils.data.Dataset):
     """
         1) loads audio, speaker_id, text pairs
