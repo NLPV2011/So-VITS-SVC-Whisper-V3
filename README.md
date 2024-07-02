@@ -1,4 +1,6 @@
-# SFAVIOM - "Rewriting" The So-VITS-SVC =))))))))))))
+# "Rewriting" The So-VITS-SVC =))))))))))))
+
+I'd make it more simple :Đ
 
 ## Updates
 > Regarding the issue of **leaking of voice timbre**, there are still no statistics on this\
